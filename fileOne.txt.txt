@@ -1,1 +1,2 @@
-I am learning how to use git and git hub
+I am learning how to use git and git hub. 
+I know that this unit is going to be intresting
